@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: novo
+Build-Jdk: 17.0.7
+Implementation-Title: owl-fabric
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.owlapps.fabric
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/FabricService
+Created-By: Maven Integration for Eclipse
+
